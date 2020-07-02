@@ -234,7 +234,7 @@ components:{
     //HERO SECTION MEQIA QUERIES
     @media only screen and (max-width: 600px){
       .home{
-      height: 80vh !important;
+      height: 100vh !important;
     }
     .hero__section{
       padding-top: 8rem !important;

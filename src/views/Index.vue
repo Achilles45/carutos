@@ -54,7 +54,7 @@
         <div class="row">
           <div class="col-12">
             <h1>We are qualified professionals that you can trust</h1>
-            <router-link to="/contact" class="hero__btn">Explore More <i class="fa fa-long-arrow-alt-right"></i></router-link>
+            <a href="mailto:info@carutos.com" class="hero__btn">Contact Us <i class="fa fa-long-arrow-alt-right"></i></a>
           </div>
         </div>
       </div>

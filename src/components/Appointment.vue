@@ -52,7 +52,7 @@
                       <div class="number">
                           <h1 class="num1">26</h1><br>
                           <h5>years of experience</h5><br>
-                          <h6><i class="fa fa-envelope-open"></i><a href="mailto:example@gmail.com">example@gmail.com</a></h6>
+                          <h6><i class="fa fa-envelope-open"></i><a href="mailto:info@carutos.com">info@carutos.com</a></h6>
                       </div>
                   </div>
               </div>

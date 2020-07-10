@@ -17,7 +17,7 @@
             <i class="fa fa-envelope-open"></i>
             <div class="content">
               <h6>SEND A MAIL</h6>
-              <p><a href="mailto:example@example.com">example@example.com</a></p>
+              <p><a href="mailto:info@carutos.com">info@carutos.com</a></p>
             </div>
           </div>
           <div class="col-md-4 d-none d-md-block">

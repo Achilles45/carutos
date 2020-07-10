@@ -11,7 +11,7 @@
                <div class="col-md-4">
                   <h5>Contact Info</h5>
                   <h6>Address: 1379 Shoreline Parkway, Mountain View, CA 94043, United States.</h6>
-                  <h6>Email: <a href="mailto:example@mail.com">Example@mail.com</a></h6>
+                  <h6>Email: <a href="mailto:info@carutos.com">info@carutos.com</a></h6>
               </div>
               <!-- <div class="col-md-4">
                   <h5>Company Links</h5>
